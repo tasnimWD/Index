@@ -1,0 +1,50 @@
+.header{
+    width: 600px;
+    height: 100px;
+   display: flex;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
+
+.banner{
+    width: 500px;
+    height:100px;
+    background-color: blue;
+    
+}
+
+.maincontent{
+    width: 600px;
+    height: 500px;
+    background-color: blanchedalmond;
+    display: flex;
+}
+
+.sidebar1{
+    width: 150px;
+    height: 500px;
+    background-color: rgb(235, 144, 8);
+}
+
+.content{
+    width: 300px;
+    height: 500px;
+    background-color: rgb(94, 13, 110);
+}
+
+.sidebar2{
+    width: 150px;
+    height: 500px;
+    background-color: rgb(79, 145, 25);
+}
+
+.footer{
+    width: 600px;
+    height: 50px;
+    text-align: center;
+    background-color: skyblue;
+}
